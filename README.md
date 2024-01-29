@@ -1,5 +1,4 @@
-<img width="1280" alt="Screenshot 2024-01-30 at 1 08 45 AM" src="https://github.com/sakshi-2315/To-Do-List/assets/147895275/157f53e8-c514-4639-a858-cf7c0a680cdb">
-# Simple To-Do List
+Simple To-Do List
 
 📝✅
 
